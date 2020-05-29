@@ -1,0 +1,30 @@
+{
+  "name": "itdev-hackday-group-3",
+  "version": "1.0.0",
+  "description": "image detection disaster",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firmanJS/itdev-hackday-group-3.git"
+  },
+  "keywords": [
+    "tensorflow",
+    "detection",
+    "disaster"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firmanJS/itdev-hackday-group-3/issues"
+  },
+  "homepage": "https://github.com/firmanJS/itdev-hackday-group-3#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.4"
+  }
+}
